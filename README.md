@@ -1,4 +1,4 @@
-# Elit-Jumantara
+# Elit Jumantara (Library: SFML)
 
 Aisyah Hayya Imani (M0521030)
 
