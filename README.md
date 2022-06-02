@@ -1,5 +1,4 @@
 # Elit-Jumantara
-Made for the final semester exam in the first semester.
 
 Aisyah Hayya Imani (M0521030)
 
